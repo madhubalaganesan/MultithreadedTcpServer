@@ -1,0 +1,86 @@
+Sep 19, 2017 7:50:20 AM tcpserver.MultiThreadServer main
+INFO: Server is Listening to port: 8090
+Sep 19, 2017 7:50:32 AM tcpserver.MultiThreadServer main
+INFO: New TCP connection established
+Sep 19, 2017 7:50:32 AM tcpserver.MultiThreadServer run
+INFO: TCP Connection Closed!
+Sep 19, 2017 7:51:06 AM tcpserver.MultiThreadServer main
+INFO: New TCP connection established
+Sep 19, 2017 7:51:06 AM tcpserver.MultiThreadServer run
+INFO: TCP Connection Closed!
+Sep 19, 2017 7:51:50 AM tcpserver.MultiThreadServer main
+INFO: New TCP connection established
+Sep 19, 2017 7:51:50 AM tcpserver.MultiThreadServer run
+INFO: TCP Connection Closed!
+Sep 19, 2017 7:52:04 AM tcpserver.MultiThreadServer main
+INFO: New TCP connection established
+Sep 19, 2017 7:52:04 AM tcpserver.MultiThreadServer run
+INFO: TCP Connection Closed!
+Sep 19, 2017 7:52:12 AM tcpserver.MultiThreadServer main
+INFO: New TCP connection established
+Sep 19, 2017 7:52:12 AM tcpserver.MultiThreadServer run
+INFO: TCP Connection Closed!
+Sep 20, 2017 11:19:33 AM tcpserver.MultiThreadServer main
+INFO: Server is Listening to port: 8090
+Sep 20, 2017 11:20:18 AM tcpserver.MultiThreadServer main
+INFO: New TCP connection established
+Sep 20, 2017 11:20:18 AM tcpserver.MultiThreadServer run
+INFO: TCP Connection Closed!
+Sep 20, 2017 11:20:51 AM tcpserver.MultiThreadServer main
+INFO: New TCP connection established
+Sep 20, 2017 11:20:51 AM tcpserver.MultiThreadServer run
+INFO: TCP Connection Closed!
+Sep 20, 2017 11:21:07 AM tcpserver.MultiThreadServer main
+INFO: New TCP connection established
+Sep 20, 2017 11:21:07 AM tcpserver.MultiThreadServer run
+INFO: TCP Connection Closed!
+Sep 20, 2017 11:21:33 AM tcpserver.MultiThreadServer main
+INFO: New TCP connection established
+Sep 20, 2017 11:21:33 AM tcpserver.MultiThreadServer run
+INFO: TCP Connection Closed!
+Sep 20, 2017 11:21:41 AM tcpserver.MultiThreadServer main
+INFO: New TCP connection established
+Sep 20, 2017 11:21:41 AM tcpserver.MultiThreadServer run
+INFO: TCP Connection Closed!
+Sep 20, 2017 11:21:54 AM tcpserver.MultiThreadServer main
+INFO: New TCP connection established
+Sep 20, 2017 11:21:54 AM tcpserver.MultiThreadServer run
+INFO: TCP Connection Closed!
+Sep 20, 2017 11:22:01 AM tcpserver.MultiThreadServer main
+INFO: New TCP connection established
+Sep 20, 2017 11:22:01 AM tcpserver.MultiThreadServer run
+INFO: TCP Connection Closed!
+Sep 20, 2017 1:45:36 PM tcpserver.MultiThreadServer main
+INFO: Server is Listening to port: 8090
+Sep 20, 2017 1:45:58 PM tcpserver.MultiThreadServer main
+INFO: New TCP connection established
+Sep 20, 2017 1:45:58 PM tcpserver.MultiThreadServer run
+INFO: TCP Connection Closed!
+Sep 20, 2017 1:46:18 PM tcpserver.MultiThreadServer main
+INFO: New TCP connection established
+Sep 20, 2017 1:46:18 PM tcpserver.MultiThreadServer run
+INFO: TCP Connection Closed!
+Sep 20, 2017 1:46:47 PM tcpserver.MultiThreadServer main
+INFO: New TCP connection established
+Sep 20, 2017 1:46:47 PM tcpserver.MultiThreadServer run
+INFO: TCP Connection Closed!
+Sep 20, 2017 3:43:39 PM tcpserver.MultiThreadServer main
+INFO: Server is Listening to port: 8090
+Sep 20, 2017 3:45:39 PM tcpserver.MultiThreadServer main
+INFO: New TCP connection established
+Sep 20, 2017 3:45:39 PM tcpserver.MultiThreadServer run
+INFO: TCP Connection Closed!
+Sep 20, 2017 3:45:54 PM tcpserver.MultiThreadServer main
+INFO: New TCP connection established
+Sep 20, 2017 3:45:54 PM tcpserver.MultiThreadServer run
+INFO: TCP Connection Closed!
+Sep 21, 2017 1:58:52 AM tcpserver.MultiThreadServer main
+INFO: Server is Listening to port: 8090
+Sep 21, 2017 1:59:40 AM tcpserver.MultiThreadServer main
+INFO: New TCP connection established
+Sep 21, 2017 1:59:40 AM tcpserver.MultiThreadServer run
+INFO: TCP Connection Closed!
+Sep 21, 2017 1:59:45 AM tcpserver.MultiThreadServer main
+INFO: New TCP connection established
+Sep 21, 2017 1:59:45 AM tcpserver.MultiThreadServer run
+INFO: TCP Connection Closed!
